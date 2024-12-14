@@ -5,14 +5,29 @@
 
 # Hi there! 👋 I'm Terence Au!
 
-I'm a researcher passionate about **Machine learning**. 
+Welcome to my Github!
 
 ---
 
-## 🔭 My projects
-
 
 -   [Simple_NER] (https://github.com/terenceau2/Simple_NER): Tutorials on some simple NER models!
+-    [E-NER-Dataset] (https://github.com/terenceau2/E-NER-Dataset): Named entity recognition (NER) dataset, text is selected from EDGAR filings. Paper: E-NER — An Annotated Named Entity Recognition Corpus of Legal Text, author = "Au, Ting Wai Terence  and
+      Lampos, Vasileios  and
+      Cox, Ingemar", Proceedings of the Natural Legal Language Processing Workshop 2022
+
+
+
+## 🌟 My Repositories
+| Repository Name           | Description                                                                                  |
+|---------------------------|----------------------------------------------------------------------------------------------|
+| [Simple_NER] (https://github.com/terenceau2/Simple_NER)   | Tutorials on some simple NER models!                      |
+
+| [EDGAR-NER](https://github.com/terenceau2/E-NER-Dataset)       | Named entity recognition (NER) dataset, text is selected from EDGAR filings. Paper: E-NER — An Annotated Named Entity Recognition Corpus of Legal Text, author = "Au, Ting Wai Terence  and
+      Lampos, Vasileios  and
+      Cox, Ingemar", Proceedings of the Natural Legal Language Processing Workshop 2022      |
+
+
+
 
 
 ---
