@@ -23,12 +23,10 @@ Welcome to my Github!
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://linkedin.com/in/terenceau1](https://www.linkedin.com/in/terence-au-b22251245/))
+- [LinkedIn](https://www.linkedin.com/in/terence-au-b22251245/))
 - [Email] terenceautingwai@gmail.com(mailto:terenceautingwai@gmail.com)
 - [GitHub Repositories](https://github.com/terenceau2?tab=repositories)
 
 ---
 
-## ⚡ Fun Facts
-- I enjoy experimenting with Mediterranean cuisine and umeshu cocktails. 🍹
 
