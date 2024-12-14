@@ -23,7 +23,7 @@ Welcome to my Github!
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/terence-au-b22251245/))
+- [LinkedIn](https://www.linkedin.com/in/terence-au-b22251245/)
 - [Email] terenceautingwai@gmail.com(mailto:terenceautingwai@gmail.com)
 - [GitHub Repositories](https://github.com/terenceau2?tab=repositories)
 
